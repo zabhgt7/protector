@@ -15,13 +15,13 @@ URL = "https://www.sheinindia.in/api/cart/apply-voucher"
 
 OUTPUT = "coupanlelo.txt"
 
-DELAY_MIN = 12
-DELAY_MAX = 12
+DELAY_MIN = 11
+DELAY_MAX = 13
 
 CYCLE_DELAY = 60
 
-TIMEOUT = 15
-RETRIES = 2
+TIMEOUT = 12
+RETRIES = 3
 
 
 # ================= GLOBAL COUNTERS =================
